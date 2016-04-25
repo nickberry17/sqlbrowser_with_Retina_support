@@ -261,7 +261,7 @@ QVariant PreferencesDialog::getSettingsDefaultValue(const QString& group, const 
         if(name == "font")
             return "Sans Serif";
         if(name == "fontsize")
-            return 12;
+            return 16;
         if(name == "null_text")
             return "NULL";
         if(name == "filter_escape")
@@ -319,11 +319,11 @@ QVariant PreferencesDialog::getSettingsDefaultValue(const QString& group, const 
 
     // editor/font?
     if(group == "editor" && name == "font")
-        return "Monaco";
+        return "Monospace";
 
     // editor/fontsize or log/fontsize?
     if((group == "editor" || group == "log") && name == "fontsize")
-        return 13;
+        return 20;
 
     if(group == "editor")
     {
