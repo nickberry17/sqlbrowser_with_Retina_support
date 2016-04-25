@@ -1,3 +1,8 @@
+Before:
+![before.png](https://bitbucket.org/repo/6koj8j/images/1084185592-before.png)
+After:
+![after.png](https://bitbucket.org/repo/6koj8j/images/919490209-after.png)
+
 # To install
 0) [ Download ](https://bitbucket.org/nickberry17/sqlitebrowser-retina-support/downloads/sqlitebrowser.app.zip)
 
