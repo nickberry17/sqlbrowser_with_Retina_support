@@ -10,7 +10,7 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui->setupUi(this);
     this->setFixedSize(this->width(), this->height());
 
-    ui->label_version->setText(tr("Version ") + APP_VERSION + "\n\n" +
+    ui->label_version->setText(tr("Retina Edition brought to you by berryberry17 ") + APP_VERSION + "\n\n" +
                                tr("Qt Version ") + QT_VERSION_STR + "\n\n" +
 #ifdef ENABLE_SQLCIPHER
                                tr("SQLCipher Version ") + SQLITE_VERSION

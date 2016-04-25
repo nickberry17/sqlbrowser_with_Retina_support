@@ -145,7 +145,7 @@ Editor::Editor() {
 
 	xCaretMargin = 50;
 	horizontalScrollBarVisible = true;
-	scrollWidth = 2000;
+	scrollWidth = 777;
 	verticalScrollBarVisible = true;
 	endAtLastLine = true;
 	caretSticky = SC_CARETSTICKY_OFF;

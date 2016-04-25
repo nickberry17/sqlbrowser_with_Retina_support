@@ -103,7 +103,7 @@ void SqlTextEdit::reloadSettings()
     // Enable auto completion if it hasn't been disabled
     if(PreferencesDialog::getSettingsValue("editor", "auto_completion").toBool())
     {
-        setAutoCompletionThreshold(3);
+        setAutoCompletionThreshold(1);
         setAutoCompletionCaseSensitivity(false);
         setAutoCompletionShowSingle(true);
         setAutoCompletionSource(QsciScintilla::AcsAPIs);
