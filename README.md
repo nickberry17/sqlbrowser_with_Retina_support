@@ -10,7 +10,7 @@ brew install qt
 brew install sqlite
 ```
 
- 2) Drag the app to your Applications folder
+ 2) Drag [the app](https://bitbucket.org/nickberry17/sqlitebrowser-retina-support/downloads/sqlitebrowser.app.zip) to your Applications folder
 
 
 # DB Browser for SQLite
