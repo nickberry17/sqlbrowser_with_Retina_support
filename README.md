@@ -1,4 +1,6 @@
 # To install
+0) [ Download ](https://bitbucket.org/nickberry17/sqlitebrowser-retina-support/downloads/sqlitebrowser.app.zip)
+
 You will need to install the two dependencies via Homebrew.
 
 1)  Install [Homebrew](http://brew.sh/), then run in Terminal:
@@ -10,7 +12,7 @@ brew install qt
 brew install sqlite
 ```
 
- 2) Drag the app to your Applications folder
+ 2) Drag [the app](https://bitbucket.org/nickberry17/sqlitebrowser-retina-support/downloads/sqlitebrowser.app.zip) to your Applications folder
 
 
 # DB Browser for SQLite
