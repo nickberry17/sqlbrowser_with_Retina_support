@@ -1,3 +1,18 @@
+# To install
+You will need to install the two dependencies via Homebrew.
+
+1)  Install [Homebrew](http://brew.sh/), then run in Terminal:
+```
+brew install qt
+```
+
+```
+brew install sqlite
+```
+
+ 2) Drag the app to your Applications folder
+
+
 # DB Browser for SQLite
 
 [![Build Status](https://travis-ci.org/sqlitebrowser/sqlitebrowser.svg?branch=master)](https://travis-ci.org/sqlitebrowser/sqlitebrowser)
