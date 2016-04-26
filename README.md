@@ -19,8 +19,6 @@ brew install sqlite
 
  2) Drag [the app](https://bitbucket.org/nickberry17/sqlitebrowser-retina-support/downloads/sqlitebrowser.app.zip) to your Applications folder
 
-Unit Tests:
-![unittests.png](https://raw.githubusercontent.com/nickberry17/sqlbrowser_with_Retina_support/master/images/unittests.png)
 
 # DB Browser for SQLite
 
@@ -56,6 +54,10 @@ This program is not a visual shell for the sqlite command line tool. It does
 not require familiarity with SQL commands. It is a tool to be used both by
 developers and by end users, and it must remain as simple to use as possible
 in order to achieve its goals.
+
+Unit Tests:
+![unittests.png](https://raw.githubusercontent.com/nickberry17/sqlbrowser_with_Retina_support/master/images/unittests.png)
+
 
 ## Windows
 
